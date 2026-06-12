@@ -9,7 +9,7 @@
 
 ---
 
-## What we're about
+## — What we're about
 
 > **Streamli** is a video streaming-focused software house. We design, architect, and deliver end-to-end streaming solutions for businesses — from real-time live streaming to scalable video-on-demand pipelines.
 
@@ -20,7 +20,7 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 
 ---
 
-## What we ship
+## — What we ship
 
 ### Video Streaming
 
@@ -42,18 +42,24 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 
 ---
 
-## Open for Collaboration
+## — On The Radar
 
 ```
 ✔  Client projects — video platforms, streaming infra, media tools
 ✔  Technical consultation — architecture reviews, stack decisions
 ✔  Partnerships — agencies, product studios, media companies
 ✔  Contract work — full stack development with streaming focus
+✔  B2B — software houses, agencies, and tech companies needing video expertise
+✔  B2C — direct product builds for founders and startups
+✔  White-label — ship under your brand, powered by our engineering
+✔  Retainer — ongoing development, maintenance, and technical support
+✔  Project-based — fixed scope, defined deliverables, clean handoff
+✔  Consulting — architecture audits, stack decisions, streaming strategy
 ```
 
 ---
 
-## Get in Touch
+## — Where to Find Us
 
 | | |
 |--|--|
@@ -65,5 +71,5 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 
 <div align="center">
 
-*"Most teams treat video as an afterthought. We treat it as the product."*
+*"Where low-latency meets high ambition."*
 </div>
