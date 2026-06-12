@@ -1,15 +1,10 @@
 <div align="center">
 
 # Anas Ali
-### CEO & Co-founder · Streamly
+### CEO · Streamli
 
-*We build the video infrastructure that powers seamless streaming experiences —*
+*We build the video infrastructure that powers seamless streaming experiences, *
 *from live broadcasts to on-demand platforms, at any scale.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasali)
-[![Website](https://img.shields.io/badge/Website-7F77DD?style=flat&logo=safari&logoColor=white)](https://streamlyweb.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anasali)
-
 </div>
 
 ---
@@ -63,15 +58,11 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 | | |
 |--|--|
 | 🌐 Website | [streamlyweb.netlify.app](https://streamlyweb.netlify.app) |
-| 💼 LinkedIn | [linkedin.com/in/anasali](https://linkedin.com/in/anasali) |
-| 🐙 GitHub | [github.com/anasali](https://github.com/anasali) |
+| 💼 LinkedIn | [linkedin.com/in/anasali](https://www.linkedin.com/in/hafiz-anas-ali-764b5a1b3/) |
 
 ---
 
 <div align="center">
 
 *"Most teams treat video as an afterthought. We treat it as the product."*
-
-![Profile views](https://komarev.com/ghpvc/?username=anasali&color=7F77DD&style=flat)
-
 </div>
