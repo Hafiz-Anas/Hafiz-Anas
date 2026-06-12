@@ -59,6 +59,7 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 |--|--|
 | 🌐 Website | [streamlyweb.netlify.app](https://streamlyweb.netlify.app) |
 | 💼 LinkedIn | [linkedin.com/in/anasali](https://www.linkedin.com/in/hafiz-anas-ali-764b5a1b3/) |
+| 📧 Email | [Hafizanas663@gmail.com](mailto:Hafizanas663@gmail.com) |
 
 ---
 
