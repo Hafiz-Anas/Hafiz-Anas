@@ -9,9 +9,9 @@
 
 ---
 
-## 🎬 About Streamly
+## What we're about
 
-> **Streamly** is a video streaming-focused software house. We design, architect, and deliver end-to-end streaming solutions for businesses — from real-time live streaming to scalable video-on-demand pipelines.
+> **Streamli** is a video streaming-focused software house. We design, architect, and deliver end-to-end streaming solutions for businesses — from real-time live streaming to scalable video-on-demand pipelines.
 
 ```
 Early Stage  ·  Full Stack Engineering  ·  Open for Client Projects
@@ -20,9 +20,9 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 
 ---
 
-## 📡 Services
+## What we ship
 
-### 🔴 Video Streaming
+### Video Streaming
 
 | Service | Description | Tech |
 |---------|-------------|------|
@@ -32,7 +32,7 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 
 ---
 
-### 💻 Software Development
+### Software Development
 
 | Service | Description | Tech |
 |---------|-------------|------|
@@ -42,7 +42,7 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 
 ---
 
-## 🤝 Open for Collaboration
+## Open for Collaboration
 
 ```
 ✔  Client projects — video platforms, streaming infra, media tools
@@ -53,7 +53,7 @@ WebRTC · HLS · FFmpeg · Video Infrastructure
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 | | |
 |--|--|
