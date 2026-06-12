@@ -14,8 +14,7 @@
 > **Streamli** is a video streaming-focused software house. We design, architect, and deliver end-to-end streaming solutions for businesses — from real-time live streaming to scalable video-on-demand pipelines.
 
 ```
-Early Stage  ·  Full Stack Engineering  ·  Open for Client Projects
-WebRTC · HLS · FFmpeg · Video Infrastructure
+Video Streaming Specialists  ·  Full Stack Engineering  ·  Open for Client  ·  Projects Sub-second Latency  ·  Enterprise-grade Infrastructure  ·  End-to-end Delivery  ·  WebRTC · HLS · DASH · FFmpeg · Multi-CDN · DRM · RTMP · Adaptive Bitrate
 ```
 
 ---
