@@ -3,7 +3,7 @@
 # Anas Ali
 ### CEO · Streamli
 
-*We build the video infrastructure that powers seamless streaming experiences, *
+*We build the video infrastructure that powers seamless streaming experiences,*
 *from live broadcasts to on-demand platforms, at any scale.*
 </div>
 
