@@ -6,11 +6,6 @@
 *We build the video infrastructure that powers seamless streaming experiences,*
 *from live broadcasts to on-demand platforms, at any scale.*
 </div>
-
-> **About Anas** — Software Engineer turned Video Infrastructure Specialist.
-> 7 years in the industry, started as a Full Stack developer, went deep into video streaming.
-> Based in Pakistan · Founded Streamly to bring enterprise-grade streaming engineering to clients worldwide.
-
 ---
 
 ## — What we're about
